@@ -28,6 +28,7 @@ Spatial Blocks is a Scratch-like educational coding tool focused on 3D graphics 
 - [ ] Add tutorials covering topics (+ onboarding).
 - [ ] Develop a cloud-based saving and sharing mechanism.
 - [ ] Add Block customization tools
+- [ ] Integrate Blockly?
 
 ---
 
